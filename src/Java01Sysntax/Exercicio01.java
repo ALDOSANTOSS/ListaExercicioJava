@@ -1,4 +1,4 @@
-package JavaSysntax;
+package Java01Sysntax;
 /* Insert the missing part of the code below to output "Hello World"*/
 public class Exercicio01 {
 

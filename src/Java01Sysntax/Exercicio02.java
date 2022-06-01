@@ -1,4 +1,4 @@
-package JavaSysntax;
+package Java01Sysntax;
 /*
 Comments in Java are written with special characters. Insert the missing parts:
  */

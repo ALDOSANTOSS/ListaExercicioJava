@@ -1,4 +1,4 @@
-package JavaVariables;
+package Java02Variables;
 /*
 Create a variable named maxSpeed and assign the value 120 to it.
  */

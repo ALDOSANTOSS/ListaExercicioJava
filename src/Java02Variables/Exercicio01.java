@@ -1,4 +1,4 @@
-package JavaVariables;
+package Java02Variables;
 /*
 Create a variable named carName and assign the value Volvo to it.
  */
